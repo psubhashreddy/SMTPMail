@@ -1,0 +1,6 @@
+{
+	"mailFrom": "subhash.peddyreddy@gmail.com",
+	"mailTo": "p.subhashreddy@gmail.com" ,
+	"mailSubject": "SMTP Mail Sending test",
+	"mailBody": "Hi How are you?"
+}
